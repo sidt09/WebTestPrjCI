@@ -1,0 +1,5 @@
+D:\WebTestPrjCI\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.dll
+D:\WebTestPrjCI\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.pdb
+D:\WebTestPrjCI\WebApplicationTest\WebApplicationTest\obj\Debug\ResolveAssemblyReference.cache
+D:\WebTestPrjCI\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.dll
+D:\WebTestPrjCI\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.pdb
